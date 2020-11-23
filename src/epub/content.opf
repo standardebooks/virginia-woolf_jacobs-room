@@ -58,28 +58,27 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Jacob%27s_Room</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/virginia-woolf_jacobs-room</meta>
 		<dc:creator id="author">Virginia Woolf</dc:creator>
-		<meta property="file-as" refines="#author">Virginia Woolf</meta>
+		<meta property="file-as" refines="#author">Woolf, Virginia</meta>
 		<meta property="se:name.person.full-name" refines="#author">Adeline Virginia Woolf</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Virginia_Woolf</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79041870</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Vilhelm Hammershøi</dc:contributor>
-		<meta property="file-as" refines="#artist">Vilhelm Hammershøi</meta>
+		<meta property="file-as" refines="#artist">Hammershøi, Vilhelm</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vilhelm_Hammershøi</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n83032886</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Moynihan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">David Moynihan</meta>
+		<meta property="file-as" refines="#transcriber-1">Moynihan, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Juliet Sutherland</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Juliet Sutherland</meta>
+		<meta property="file-as" refines="#transcriber-2">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Charles Franks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Charles Franks</meta>
+		<meta property="file-as" refines="#transcriber-3">Franks, Charles</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alvaro Bernarde</dc:contributor>
-		<meta property="file-as" refines="#producer-1">Alvaro Bernarde</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://bernarde.me</meta>
+		<meta property="file-as" refines="#producer-1">Bernarde, Alvaro</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
