@@ -46,7 +46,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The coming-of-age of a young man in pre-war England, told by the impressions of those around him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In her third novel, &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt; departs from conventional narrative and explores storytelling through discordant scenes and impressions. Jacob Flander’s life story is told through the perspectives of the people in his life.&lt;/p&gt;
+			&lt;p&gt;In her third novel, &lt;a href="https://standardebooks.org/ebooks/virginia-woolf"&gt;Virginia Woolf&lt;/a&gt; departs from conventional narrative and explores storytelling through discordant scenes and impressions. Jacob Flanders’ life story is told through the perspectives of the people in his life.&lt;/p&gt;
 			&lt;p&gt;In &lt;i&gt;Jacob’s Room&lt;/i&gt;, we see Jacob grow from a young boy to an ardent student of Classical culture while the world around him moves closer to an impending war. Jacob is described in flashes by the women around him—his mother and his lovers.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
