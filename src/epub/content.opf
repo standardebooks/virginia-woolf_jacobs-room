@@ -71,7 +71,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Vilhelm Hammershøi</dc:contributor>
 		<meta property="file-as" refines="#artist">Hammershøi, Vilhelm</meta>
-		<link href="https://en.wikipedia.org/wiki/Vilhelm_Hammershøi" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Vilhelm_Hammersh%C3%B8i" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n83032886.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Moynihan</dc:contributor>
